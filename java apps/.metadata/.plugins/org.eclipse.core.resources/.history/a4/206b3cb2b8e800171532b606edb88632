@@ -1,0 +1,13 @@
+package beforemidexamples;
+
+public class Q15 {
+
+	public static void main(String[] args) {
+		int a,b;
+		for(a=1,b=7;a<=7,b>=1;a++,b--) {
+			
+		}
+
+	}
+
+}

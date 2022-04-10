@@ -1,0 +1,15 @@
+package beforemidexamples;
+import java.io.Console;
+import java.util.Scanner;
+public class Q13 {
+
+	public static void main(String[] args) {
+		Scanner input=new Scanner(System.in);
+		
+		Console console = System.console();
+		String numbers = console.readLine("Enter three numbers: ");
+
+
+	}
+
+}

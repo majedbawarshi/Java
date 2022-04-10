@@ -1,0 +1,16 @@
+package beforemidexamples;
+
+import java.util.Scanner;
+
+public class Q14 {
+
+	public static void main(String[] args) {
+		System.out.print("Miles\tKilometers");
+		for(int x=1;x<=10;x++) {
+			float y=(float) (x*1.609);
+			System.out.print(""+x+"\t"+y);
+			System.out.println();
+		}
+	}
+
+}

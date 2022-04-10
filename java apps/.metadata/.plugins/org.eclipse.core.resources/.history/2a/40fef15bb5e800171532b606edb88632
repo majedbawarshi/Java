@@ -1,0 +1,15 @@
+package beforemidexamples;
+
+import java.util.Scanner;
+
+public class Q14 {
+
+	public static void main(String[] args) {
+		
+		Scanner input=new Scanner(System.in);
+		System.out.print("Enter a point with two coordinates: ");
+		double x2= input.nextDouble();
+		double y2= input.nextDouble();
+	}
+
+}
